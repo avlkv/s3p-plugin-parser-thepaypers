@@ -8,6 +8,7 @@ import sys
 import pytest
 from pathlib import Path
 
+
 from s3p_sdk.plugin.payloads.parsers import S3PParserBase
 from selenium.webdriver.chrome import webdriver
 from selenium.webdriver import Chrome
